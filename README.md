@@ -1,0 +1,1 @@
+Faltou tratar String nula
